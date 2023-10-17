@@ -7,4 +7,3 @@ test2
 강의실2
 aaaa
 bbaaaaaaaa
-dd
